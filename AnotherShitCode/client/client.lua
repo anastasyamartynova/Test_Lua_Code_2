@@ -12,5 +12,3 @@ CreateThread(function()
         SetPedScale(createdPed, 5.0)
     end
 end)
-
---test commit
